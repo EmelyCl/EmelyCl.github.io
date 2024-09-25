@@ -1,0 +1,17 @@
+body {
+    /* voor commentaar opnieuw ctrl : */
+    /*lettertype*/
+    font-family: sans-serif;
+    /*achtergrondkleur*/
+    background-color: gold;
+}
+
+h1 {
+    /* om grootte h1 aan te passen */
+    font-size: 4rem;
+}
+
+.inspringen {
+    /* in html bestand is er een class 'inspringen' die opzij gezet zal worden door margin */
+    margin-left: 40px;
+}
